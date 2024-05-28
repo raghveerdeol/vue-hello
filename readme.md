@@ -1,5 +1,9 @@
-Descrizione:
-Stampare a schermo un messaggio all’interno di un h1, utilizzando i data.
+<!-- Descrizione:
+Stampare a schermo un messaggio all’interno di un h1, utilizzando i data. -->
+-aggiungiamo CDN vue al file index;
+-creiamo la cartella div con id app in cui contenere il codice;
+-creiamo un h1 al intrno del div#app;
+-<h1>{{messaggio}} </h1>;
 Bonus:
 Aggiungere alla pagina un’immagine, presa anch’essa da un data.
 Bonus 2:
